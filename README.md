@@ -1,2 +1,2 @@
-# Youtube Trending Video Data Analytics
+# Python
 Python programming data analysis projects
